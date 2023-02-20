@@ -31,7 +31,7 @@
 
 //Fox1k ***
 import React, {Suspense, lazy } from 'react';
-import {Routes, Route, Link, useNavigate, withRouter, BrowserRouter} from 'react-router-dom';
+import {Routes, Route, Link, useNavigate, withRouter, BrowserRouter, HashRouter} from 'react-router-dom';
 import './App.css';
 import Navbar from './Components/Navbar/Navbar'
 //import DialogsContainer from "./Components/Dialogs/DialogsContainer";
@@ -89,10 +89,10 @@ const mapStateToProps = (state) => ({
 let AppContainer = connect(mapStateToProps, {initializeApp})(App);
 
 const SamuraiJSApp = (props) => {
-    return <BrowserRouter basename={process.env.PUBLIC_URL}>
+    return <HashRouter basename={process.env.PUBLIC_URL}>
         <Provider store={store}>
             <AppContainer/>
         </Provider>
-    </BrowserRouter>
+    </HashRouter>
 }
 export default SamuraiJSApp
