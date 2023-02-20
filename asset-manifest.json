@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/noisy-network/static/css/main.5cb70b32.css",
+    "main.js": "/noisy-network/static/js/main.0faffb7a.js",
+    "static/js/624.4e17e49b.chunk.js": "/noisy-network/static/js/624.4e17e49b.chunk.js",
+    "static/css/302.cc1236da.chunk.css": "/noisy-network/static/css/302.cc1236da.chunk.css",
+    "static/js/302.d14fa13b.chunk.js": "/noisy-network/static/js/302.d14fa13b.chunk.js",
+    "static/js/712.8a4878d6.chunk.js": "/noisy-network/static/js/712.8a4878d6.chunk.js",
+    "static/js/787.4fac3492.chunk.js": "/noisy-network/static/js/787.4fac3492.chunk.js",
+    "static/media/userPhoto.png": "/noisy-network/static/media/userPhoto.0ad6f07bd8587f91e7aa.png",
+    "static/media/loader.svg": "/noisy-network/static/media/loader.111f969256ac59fb5f6d2351cfb7f8f7.svg",
+    "index.html": "/noisy-network/index.html",
+    "main.5cb70b32.css.map": "/noisy-network/static/css/main.5cb70b32.css.map",
+    "main.0faffb7a.js.map": "/noisy-network/static/js/main.0faffb7a.js.map",
+    "624.4e17e49b.chunk.js.map": "/noisy-network/static/js/624.4e17e49b.chunk.js.map",
+    "302.cc1236da.chunk.css.map": "/noisy-network/static/css/302.cc1236da.chunk.css.map",
+    "302.d14fa13b.chunk.js.map": "/noisy-network/static/js/302.d14fa13b.chunk.js.map",
+    "712.8a4878d6.chunk.js.map": "/noisy-network/static/js/712.8a4878d6.chunk.js.map",
+    "787.4fac3492.chunk.js.map": "/noisy-network/static/js/787.4fac3492.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cb70b32.css",
+    "static/js/main.0faffb7a.js"
+  ]
+}
