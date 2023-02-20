@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/noisy-network/static/css/main.5cb70b32.css",
-    "main.js": "/noisy-network/static/js/main.eed14781.js",
+    "main.js": "/noisy-network/static/js/main.80b6c9f6.js",
     "static/js/624.4e17e49b.chunk.js": "/noisy-network/static/js/624.4e17e49b.chunk.js",
     "static/css/302.cc1236da.chunk.css": "/noisy-network/static/css/302.cc1236da.chunk.css",
     "static/js/302.d14fa13b.chunk.js": "/noisy-network/static/js/302.d14fa13b.chunk.js",
@@ -11,7 +11,7 @@
     "static/media/loader.svg": "/noisy-network/static/media/loader.111f969256ac59fb5f6d2351cfb7f8f7.svg",
     "index.html": "/noisy-network/index.html",
     "main.5cb70b32.css.map": "/noisy-network/static/css/main.5cb70b32.css.map",
-    "main.eed14781.js.map": "/noisy-network/static/js/main.eed14781.js.map",
+    "main.80b6c9f6.js.map": "/noisy-network/static/js/main.80b6c9f6.js.map",
     "624.4e17e49b.chunk.js.map": "/noisy-network/static/js/624.4e17e49b.chunk.js.map",
     "302.cc1236da.chunk.css.map": "/noisy-network/static/css/302.cc1236da.chunk.css.map",
     "302.d14fa13b.chunk.js.map": "/noisy-network/static/js/302.d14fa13b.chunk.js.map",
@@ -20,6 +20,6 @@
   },
   "entrypoints": [
     "static/css/main.5cb70b32.css",
-    "static/js/main.eed14781.js"
+    "static/js/main.80b6c9f6.js"
   ]
 }
